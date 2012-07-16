@@ -1,0 +1,18 @@
+Author:
+=======
+drake01 (drakeoone@gmail.com)
+
+About:
+=======
+HybridChannelAlloc-Simulation:
+A program to simulate the channel allocation by both static and dynamic means (so hybrid channel allocation)
+The pthread library has been used to generate different threads competing for
+the resources (bandwidth).
+
+
+
+To compile:
+===========
+Use makefile.
+Run the make command: make
+
