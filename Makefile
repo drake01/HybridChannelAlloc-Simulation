@@ -1,2 +1,2 @@
-ALL:
-	g++ -o hybridchannelalloc hybridchannelalloc.cpp 
+alL:
+	g++ -o hybridchannelalloc hybridchannelalloc.cpp  -lpthread
